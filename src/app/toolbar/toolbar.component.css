@@ -1,0 +1,11 @@
+body{
+    background-color: rgba(81, 71, 144, 0.701);
+    box-sizing: border-box;
+    display: flex;
+    height: calc(100vh - var(--header-height)) ;
+    width: 45%;
+}
+.nav-link{
+    text-decoration: none;
+    font-size: xx-large;
+}

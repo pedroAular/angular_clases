@@ -1,0 +1,50 @@
+.container {
+    display: flex;
+  }
+  
+  .derecho {
+    flex: 1;
+    position: fixed; /* Ajusta la posición vertical según sea necesario */
+    top: 31px;
+    left: 45%; /* Posición en el lado derecho de la pantalla */
+    height:607px;
+    width: auto; /* Ajusta el ancho según tus necesidades */
+    background-color: rgba(47, 47, 47, 0.42);
+    padding: 0px;
+  }
+
+
+
+body{
+    background-color: rgba(59, 57, 57, 0.113);
+    position:fixed;
+}
+
+.tar1 {
+
+    width: 70%;
+    height: px;
+    background: rgba(62, 61, 61, 0.606);
+    padding: 20px;
+    margin-left: 40px;
+    border-radius: 7px;
+    border: 2px solid #fff;
+  }
+.tar2{
+  width: 70%;
+  height: px;
+  background: rgba(62, 61, 61, 0.606);
+  padding: 20px;
+  margin-left: 40px;
+  border-radius: 7px;
+  border: 2px solid #fff;
+}
+.tar3{
+  width: 70%;
+  height: px;
+  background: rgba(62, 61, 61, 0.606);
+  padding: 20px;
+  margin-left: 40px;
+  border-radius: 7px;
+  border: 2px solid #fff;
+}
